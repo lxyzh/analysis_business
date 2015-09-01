@@ -1,6 +1,7 @@
 # analysis_business
 #首页
-![](http://7mno4h.com2.z0.glb.qiniucdn.com/yy_home.png)
+(http://7mno4h.com2.z0.glb.qiniucdn.com/yy_home.png)
+
 自定义ActionBar
 
 底部TabHost实现
