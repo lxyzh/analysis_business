@@ -47,6 +47,7 @@
 
 #个人中心
 ![](http://7mno4h.com2.z0.glb.qiniucdn.com/yy_more.png)
+
 个人资料
 
 修改密码
@@ -57,6 +58,7 @@
 
 #商品列表
 ![](http://7mno4h.com2.z0.glb.qiniucdn.com/yy_shop_list.png)
+
 商品列表
 
 商品排序（按销量，评分，价格，最新）
@@ -71,6 +73,7 @@
 
 #商品详情
 ![](http://7mno4h.com2.z0.glb.qiniucdn.com/yy_detail.png)
+
 加载Html5商品详情页面
 
 立即购买
@@ -83,6 +86,7 @@
 
 #订单详情
 ![](http://7mno4h.com2.z0.glb.qiniucdn.com/yy_order.png)
+
 选择收货地址
 
 选择物流
@@ -99,6 +103,7 @@
 
 #注册&登录
 ![](http://7mno4h.com2.z0.glb.qiniucdn.com/yy_reg.png)
+
 短信验证
 
 用户注册
